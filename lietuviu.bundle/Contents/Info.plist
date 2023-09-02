@@ -8,12 +8,5 @@
 	<string>lietuviu</string>
 	<key>CFBundleVersion</key>
 	<string>1.1</string>
-	<key>KLInfo_Marius - Lietuvių</key>
-	<dict>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.lietuviu.marius-lietuvių</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-GB</string>
-	</dict>
 </dict>
 </plist>
